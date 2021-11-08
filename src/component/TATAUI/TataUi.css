@@ -1,0 +1,16 @@
+
+.img-jumbo{
+    background-image: url("https://i.pinimg.com/originals/3d/38/4d/3d384d829dbf4b678cfea617114e149d.jpg");
+    background-size: 100%,100% ; 
+    padding-bottom: 150px;
+    
+}
+.childImage{
+    width: 80%;
+    height: 85%;
+    margin-left: 20px;
+}
+.bar{
+    margin-top: -55px;
+    background: linear-gradient(to right, #ff3a33 0%, #fa9725fd 100%);
+}
